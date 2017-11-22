@@ -4,6 +4,10 @@
 
 编写新的pad_ai(pad_pos, ball_pos)函数，实现更好的控制球拍移动的算法
 
+
+注意：只能修改pad_ai算法，入口参数pad_pos、ball_pos，出口参数-1、0、1不可修改
+            可添加全局变量，单全局变量只限定在pad_ai函数中使用
+
 001@cosx.xyz
 '''
 
