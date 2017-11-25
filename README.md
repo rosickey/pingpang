@@ -1,5 +1,6 @@
 # pingpang
 弹球算法竞赛
+![avatar](https://github.com/rosickey/pingpang/blob/master/ping.gif)
 ## 安装说明
 ###Windows
 首先，推荐安装Python2.7.10 <a href="https://www.python.org/ftp/python/2.7.10/python-2.7.10.msi" target="_blank">下载python-2.7.10.msi</a>
