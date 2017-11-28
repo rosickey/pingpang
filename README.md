@@ -12,11 +12,12 @@ Python安装结束后，打开系统命令行（开始-运行-输入CMD），输
 ```bash
     python
 ```
-如果进入Python环境，表明Python安装成功，否则，请检查自己的系统变量path中是否有Python的安装路径
+如果进入Python环境，表明Python安装成功，输入exit()可退出。
+否则，请检查自己的系统变量path中是否有Python的安装路径
 ![avatar](https://github.com/rosickey/pingpang/blob/master/images/testok.png)
 
 
-打开系统命令行（开始-运行-输入CMD），输入
+重新打开系统命令行（开始-运行-输入CMD），输入
 ```bash
     pip install --upgrade pip
 ```
