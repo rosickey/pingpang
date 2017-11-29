@@ -65,6 +65,7 @@ Python安装结束后，打开系统命令行（开始-运行-输入CMD），输
      python /Users/home/ball.py
 ```
 
+## 有问题？
 
 有问题可在issues中提问
 
