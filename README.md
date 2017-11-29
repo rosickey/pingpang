@@ -42,4 +42,4 @@ Python安装结束后，打开系统命令行（开始-运行-输入CMD），输
 修改源代码，可右键点击ball.py,使用IDLE打开编辑，也可使用其他代码编辑器
 
 有问题可在issues中提问
-
+![avatar](https://github.com/rosickey/pingpang/blob/master/images/ans.png)
