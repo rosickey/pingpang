@@ -33,7 +33,21 @@ Python安装结束后，打开系统命令行（开始-运行-输入CMD），输
 ```
 ![avatar](https://github.com/rosickey/pingpang/blob/master/images/simpleguitk.png)
 
+
+### OSX\Linux
+
+:warning: OSX\Linu已经安装有Python环境
+
+打开命令行bash，输入
+```bash
+    pip install --upgrade pip
+    pip install simpleguitk
+```
+
 ## 快速开始
+
+### Windows
+
 假如源代码ball.py 存放在c:\ball.py
 
 打开系统命令行（开始-运行-输入CMD），输入
@@ -44,7 +58,16 @@ Python安装结束后，打开系统命令行（开始-运行-输入CMD），输
 
 修改源代码，可右键点击ball.py,使用IDLE打开编辑，也可使用其他代码编辑器
 
+### OSX\Linux
+
+假如源代码ball.py 存放在/Users/home，打开命令行，输入
+```bash
+     python /Users/home/ball.py
+```
+
+
 有问题可在issues中提问
 
 ![avatar](https://github.com/rosickey/pingpang/blob/master/images/ans.png)
+
 
